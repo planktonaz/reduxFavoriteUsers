@@ -103,6 +103,7 @@ div {
     width: 100%;
     min-height: 50vh;
     padding: 0 50px 50px 50px;
+    margin-top: 10px;
 }
 
 .box {
